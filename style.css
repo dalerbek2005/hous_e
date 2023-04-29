@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 500px;
+    border: 2px solid black;
+    background:url(./1671675903_kalix-club-p-burgeri-fon-oboi-2.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/* header .container ul{
+    display: flex;
+    justify-content: space-between;
+    
+} */
+ .header_top .tugma{
+    width: 120px;
+    height: 30px;
+    border: 1px solid green;
+    /* margin-left: 100px;
+    margin-top: 20px; */
+    border-radius: 5px;
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+
+}
+header .header_top ul{
+    display: flex;
+    justify-content: space-between;
+    margin-top:0px;
+}
+.header_top .tugma p{
+    margin-left: 20px;
+    margin-top: 5px;
+    color: white;
+    /* font-family: 'Raleway', sans-serif;
+font-weight: 900;
+font-size: 72px; */
+
+}
